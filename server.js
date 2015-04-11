@@ -1,3 +1,11 @@
+/********************************************
+
+Copyright (c) Prabhat 2015
+
+*********************************************/
+
+'use strict';
+
 console.log('inside server.js');
 
 var express = require('express');

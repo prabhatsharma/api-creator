@@ -1,3 +1,9 @@
+/********************************************
+
+Copyright (c) Prabhat 2015
+
+*********************************************/
+
 'use strict';
 console.log('inside api.js');
 var metamodels = require('../models/metamodels.js');
